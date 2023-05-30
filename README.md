@@ -1,5 +1,8 @@
-## Hi there, my name is Veysel 👋
-I'm Veysel from Turkey, and I'm a digital marketing intern at Robotistan Company. Junior Web and Backend developer who a graduated from Computer Engineering. I really enjoy learning new things, do something interesting, cooking and tasting so on. You see, I'm a fresh developer.🤡
+## Hi there 👋
+* I'm Veysel from Turkey, and I'm a Software Engineer who a graduated from Computer Engineering. 
+* I work as a software developer at the Turkey Tourism Promotion and Development Agency. I have been programming professionally since 2021. In recent years, I have been developing REST APIs, Web Scraping, Data Analysis and CMS software, mainly Go, Python and Node.js. In addition, modules, blog posts, etc. to support the community. I'm doing things.
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veyselaksin&label=Profile%20views&color=0e75b6&style=flat" alt="veyselaksin" /> </p>
 
