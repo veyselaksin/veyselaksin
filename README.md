@@ -9,7 +9,7 @@ I work as a software developer. I have been programming professionally since 202
 
 |Follow and Connect with me|
 |-----|
-|<a href="https://www.linkedin.com/in/veyselaksin/"><img align="left" alt="Veysel's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a> <a href="https://twitter.com/veyselaksinn" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="veyselaksinn" width="30"/></a> <a href="mailto:veyselaksn@gmail.com"><img align="left" alt="Veysel's Email address" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>|
+|<a href="https://www.linkedin.com/in/veyselaksin/"><img align="left" alt="Veysel's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a> <a href="https://twitter.com/veyselaksinn" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="veyselaksinn" width="30"/></a>
 
 
 - 🔭 I’m currently working on Spring Framework
